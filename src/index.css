@@ -44,7 +44,7 @@
 }
 
 .App .item-todo .item-delete {
-  display: inline-block;
+  display: block;
   cursor: pointer;
   float: right;
   font-size: 22px;
